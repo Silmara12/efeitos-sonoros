@@ -1,1 +1,2 @@
-# efeitos-sonoros
+# EfeitosSonoros_RadioGremioEstudantil
+Efeitos sonoros - Rádio Grêmio Estudantil
